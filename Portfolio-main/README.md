@@ -1,9 +1,7 @@
 Personal Portfolio Website 🔥
 This website is perfectly suits for Personal Portfolio, CV, Resume, Designer and Freelancers websites. Its design is up to modern design trends.
 
-Live Demo: https://yashgaur908.github.io/Portfolio/ 🌐
-
-Youtube Video: https://lnkd.in/dDF9mra 🎬
+Live Demo:https://bhavya-nagar-portfolio.netlify.app/🌐
 
 Language Used: html5 css3 javascript
 Web Framework: bootstrap4
